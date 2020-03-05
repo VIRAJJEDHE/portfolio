@@ -28,13 +28,13 @@ h1{
 }
 /*carausel*/
 .slider {
-  width: 400px;
+  width: 300px;
   height: 320px;
   display: flex;
   overflow-x: auto;
 }
 .slide {
-  width: 400px;
+  width: 300px;
   flex-shrink:0;
   height:auto;
 }
